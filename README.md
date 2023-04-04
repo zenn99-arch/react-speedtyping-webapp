@@ -1,1 +1,1 @@
-https://vercel.com/bimal-creatives/react-speedtyping-webapp
+https://react-speedtyping-webapp.vercel.app/
